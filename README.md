@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CodeZuk
 - 👀 I’m interested in opportunities to gain experience in web development
 - 🌱 I’m currently learning Html5 and CSS
-- 💞️ I’m looking to collaborate on student projects
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me [codezuk5@gmail.com](url)
 
 <!---
